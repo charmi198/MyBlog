@@ -1,0 +1,8 @@
+name: non unique keyghjghjgj
+source: demo
+type: raw_sql
+dbtModel: null
+rawSql: select * from roles3
+tableName: ''
+isSchema: false
+primaryKey: role_ex
