@@ -1,0 +1,10 @@
+model: non-unique-key-test
+destination: s3-demo
+config:
+  mappings: []
+  objectKey: demoS3.csv
+  includeHeader: true
+  autoSyncColumns: true
+schedule:
+  type: manual
+schedulePaused: false
