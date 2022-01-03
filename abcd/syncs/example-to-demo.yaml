@@ -1,0 +1,11 @@
+model: example
+destination: demo
+config:
+  url: >-
+    https://docs.google.com/spreadsheets/d/1DY7P43AQOryrmii0WA8kfYdbQKMyykYV4RJigib06QQ/edit?usp=drivesdk
+  name: Untitled spreadsheet
+  sheetName: Sheet1
+  spreadsheetId: 1DY7P43AQOryrmii0WA8kfYdbQKMyykYV4RJigib06QQ
+schedule:
+  type: manual
+schedulePaused: false
