@@ -1,0 +1,8 @@
+name: example-1
+source: demo
+type: raw_sql
+dbtModel: null
+rawSql: SELECT * FROM "public"."roles" LIMIT 100
+tableName: ''
+isSchema: false
+primaryKey: role_name
