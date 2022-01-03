@@ -1,0 +1,17 @@
+model: non-unique-key-test
+destination: postgres-destination
+config:
+  table: public.roles1
+  mappings:
+    - to: role_id
+      from: role_ex
+      type: standard
+    - to: role_name
+      from: role_id
+      type: standard
+    - to: role_ex
+      from: role_name
+      type: standard
+schedule:
+  type: manual
+schedulePaused: false
