@@ -4,7 +4,6 @@ connection_id: 78730243-03d4-4ca9-9a27-2c1dfa8407ac
 name: do not delete
 created_at: 1640606055135
 query_type: raw_sql
-id: ce98e329-0a1c-4db6-bbcb-30cb072ca80c
 destination_instances:
 - 6f3604aa-c4b2-4f2d-956f-2b869721da97
 primary_key: _sdc_primary_key
