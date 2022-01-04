@@ -6,5 +6,5 @@ created_at: 1640606055135
 query_type: raw_sql
 destination_instances:
 - 6f3604aa-c4b2-4f2d-956f-2b869721da97
-primary_key: _sdc_primary_key
+primary_key: gfhgf
 slug: do-not-delete1
