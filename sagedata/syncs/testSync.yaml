@@ -1,0 +1,8 @@
+updated_at: 1640606087005
+service_id: 46d1db27-89e6-4721-9129-6fe96cc5bfaa
+name: testSync
+created_at: 1640606087005
+model_id: ce98e329-0a1c-4db6-bbcb-30cb072ca80c
+config:
+  bucket: fsfa
+  key: sfsf
