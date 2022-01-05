@@ -1,0 +1,9 @@
+query_raw_sql: select * from sd_stage.sd__forex__test__rates;
+updated_at: 1640606055135
+connection_id: 78730243-03d4-4ca9-9a27-2c1dfa8407ac
+name: testModel
+created_at: 1640606055135
+query_type: raw_sql
+destination_instances:
+- 6f3604aa-c4b2-4f2d-956f-2b869721da97
+primary_key: testModel
